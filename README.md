@@ -1,5 +1,4 @@
-[數據競賽最終簡報.pdf](https://github.com/yunruyeh/Data-Station-/files/12173354/default.pdf)# Data-Station-
-2022Data Station 數據競賽企業題
+# 2022Data Station 數據競賽-企業題
 
 解題目的:
 運動及飲食關係密不可分，本提案期望建立一套推薦系統，讓 我們所建立的健康意識指標，結合企業結合本身既有資訊，協 助企業掌握目標客群，並推廣企業所推出課程、餐飲或競賽。
@@ -23,4 +22,4 @@
 
 成果亮點：產出健康意識等級模型，消費者可以藉每周發票資料來評估自己是否符合飲食計畫以及是否符合期望等級，店家可針對不同等級客群進行精準行銷。
 
-
+[數據競賽最終簡報.pdf](https://github.com/yunruyeh/Data-Station-/files/12173354/default.pdf)
