@@ -1,4 +1,4 @@
-# Data-Station-
+[數據競賽最終簡報.pdf](https://github.com/yunruyeh/Data-Station-/files/12173354/default.pdf)# Data-Station-
 2022Data Station 數據競賽企業題
 
 解題目的:
@@ -23,4 +23,4 @@
 
 成果亮點：產出健康意識等級模型，消費者可以藉每周發票資料來評估自己是否符合飲食計畫以及是否符合期望等級，店家可針對不同等級客群進行精準行銷。
 
-[Uploading 數據競賽最終簡報.pdf…]()
+
